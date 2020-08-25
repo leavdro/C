@@ -6,7 +6,7 @@
 
 * [Entrada y salida estándar](https://github.com/lundrvs/blob/master/ES/README.md)
 
-* [Control del flujo](https://github.com/lundrvs/blob/master/cflu/README.md)
+* [Control del flujo](https://github.com/Lundrvs/C/blob/master/cflu/README.md)
 
 * [Arrays]() _En desarrollo..._
 
