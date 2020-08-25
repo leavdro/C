@@ -1,6 +1,6 @@
 # C, ejercicios resueltos (punteros y referencias)
 
-**Realice los siguientes programas a modo de ejercicio: **
+**Realice los siguientes programas a modo de ejercicio:**
 
 1. Almacene en una variable puntero la dirección de memoria de una variable
    de tipo `char` inicializada con el valor 'X'. Represente el estado de la memoria.
