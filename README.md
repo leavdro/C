@@ -8,7 +8,7 @@
 
 * [Control del flujo](https://github.com/Lundrvs/C/blob/master/cflu/README.md)
 
-* [Arrays]() _En desarrollo..._
+* [Arrays](https://github.com/lundrvs/C/blob/master/arr/README.md)
 
 * [Cadenas]() _En desarrollo..._
 
