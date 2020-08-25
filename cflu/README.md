@@ -1,7 +1,7 @@
 # C, ejercicios resueltos (control del flujo)
 
 1. Pida un número al usuario y muestre un mensaje en pantalla que indique
-   si el número es mayor o menos que 10.
+   si el número es mayor o menor que 10.
 
 [Solución](./flu1.c)
 
