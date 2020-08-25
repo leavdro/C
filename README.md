@@ -4,7 +4,7 @@
 
 * [Punteros y referencias](https://github.com/lundrvs/C/blob/master/punt/README.md)
 
-* [Entrada y salida estándar]() _En desarrollo..._
+* [Entrada y salida estándar](https://github.com/lundrvs/blob/master/ES/README.md)
 
 * [Control del flujo]() _En desarrollo..._
 
