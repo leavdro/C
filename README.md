@@ -2,7 +2,7 @@
 
 ## Índice
 
-* [Punteros y referencias]() _En desarrollo..._
+* [Punteros y referencias](https://github.com/lundrvs/C/blob/master/punt/README.md)
 
 * [Entrada y salida estándar]() _En desarrollo..._
 
