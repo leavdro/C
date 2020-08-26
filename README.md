@@ -4,6 +4,9 @@
 
 _**Éstos códigos han sido probados con GCC.**_
 
+_**Las soluciones no son las otorgadas por el libro, sino que son las del propio
+   usuario. Por lo tanto, las soluciones no tienen por qué estar correctas.**_
+
 * [Punteros y referencias](https://github.com/lundrvs/C/blob/master/punt/README.md)
 
 * [Entrada y salida estándar](https://github.com/lundrvs/blob/master/ES/README.md)
