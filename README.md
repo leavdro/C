@@ -12,7 +12,7 @@ _**Éstos códigos han sido probados con GCC.**_
 
 * [Arrays](https://github.com/lundrvs/C/blob/master/arr/README.md)
 
-* [Cadenas]() _En desarrollo..._
+* [Cadenas](https://github.com/lundrvs/C/blob/master/cad/README.md)
 
 * [Estructuras]() _En desarrollo..._
 
