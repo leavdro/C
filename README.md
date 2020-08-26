@@ -14,7 +14,7 @@ _**Éstos códigos han sido probados con GCC.**_
 
 * [Cadenas](https://github.com/lundrvs/C/blob/master/cad/README.md)
 
-* [Estructuras]() _En desarrollo..._
+* [Estructuras](https://github.com/lundrvs/C/blob/master/estr/README.md)
 
 * [Funciones]() _En desarrollo..._
 
