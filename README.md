@@ -9,7 +9,7 @@ _**Las soluciones no son las otorgadas por el libro, sino que son las del propio
 
 * [Punteros y referencias](https://github.com/lundrvs/C/blob/master/punt/README.md)
 
-* [Entrada y salida estándar](https://github.com/lundrvs/blob/master/ES/README.md)
+* [Entrada y salida estándar](https://github.com/lundrvs/C/blob/master/ES/README.md)
 
 * [Control del flujo](https://github.com/Lundrvs/C/blob/master/cflu/README.md)
 
