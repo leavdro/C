@@ -2,6 +2,8 @@
 
 ## Índice
 
+_**Éstos códigos han sido probados con GCC.**_
+
 * [Punteros y referencias](https://github.com/lundrvs/C/blob/master/punt/README.md)
 
 * [Entrada y salida estándar](https://github.com/lundrvs/blob/master/ES/README.md)
