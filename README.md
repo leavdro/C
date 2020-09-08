@@ -19,7 +19,7 @@ _**Las soluciones no son las otorgadas por el libro, sino que son las del propio
 
 * [Estructuras](https://github.com/lundrvs/C/blob/master/estr/README.md)
 
-* [Funciones]() _En desarrollo..._
+* [Funciones](https://github.com/Lundrvs/C/blob/master/fun/README.md)
 
 * [Ficheros]() _En desarrollo..._
 
