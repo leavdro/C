@@ -2,8 +2,10 @@
 
 Realice los siguientes programas:
 
-1. Función que pida una clave al usuario. Hasta que no acierte, la función no finaliza. Muestre un mensaje de saludo y de despedida antes y después de la función, 
-respectivamente.
+1. Función que pida una clave al usuario. 
+   Hasta que no acierte, la función no finaliza. 
+   Muestre un mensaje de saludo y de despedida antes y después de la función, 
+   respectivamente.
 
 [Solución](./fun1.c)
 
