@@ -22,7 +22,7 @@ return n;}
 //modificar:
 void modificar (int ran1){ int mod=ran1;mod++;
 printf("\n\nSimplemente se modificará en una unidad el valor \"%d\" introducido.", ran1);
-getchar();getchar();
+getchar();getchar();//Dos veces, por buffer del teclado.
 printf("\nAhora la variable introducida \"%d\" es \"%d\".", ran1, mod);
 }//fin de modificar.
 //final:
