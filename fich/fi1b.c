@@ -24,4 +24,4 @@ printf("éste exista. Si existe, se mostrará su contenido. Si no existe, se cer
 printf("con naturalidad.\n\n");getchar();fflush(stdin);}
 
 void final (void){
-printf("\n\n\n\Gracias por utilizar éste programa!n\n\n");}
+printf("\n\n\nGracias por utilizar éste programa!n\n\n");}
