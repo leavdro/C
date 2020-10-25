@@ -21,7 +21,7 @@ _**Las soluciones no son las otorgadas por el libro, sino que son las del propio
 
 * [Funciones](https://github.com/Lundrvs/C/blob/master/fun/README.md)
 
-* [Ficheros](https://github.com/Lundrvs/C/blob/master/fich/README.md) _En desarrollo..._
+* [Ficheros](https://github.com/Lundrvs/C/blob/master/fich/README.md)
 
 * [Estructuras dinámicas]() _En desarrollo..._
 
