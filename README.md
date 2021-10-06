@@ -5,7 +5,7 @@
 _**Éstos códigos han sido probados con GCC.**_
 
 _**Las soluciones no son las otorgadas por el libro, sino que son las del propio
-   usuario. Por lo tanto, las soluciones no tienen por qué estar correctas.**_
+   usuario. Por lo tanto, las soluciones no tienen por qué ser correctas.**_
 
 * [Punteros y referencias](https://github.com/lundrvs/C/blob/master/punt/README.md)
 
@@ -22,9 +22,3 @@ _**Las soluciones no son las otorgadas por el libro, sino que son las del propio
 * [Funciones](https://github.com/Lundrvs/C/blob/master/fun/README.md)
 
 * [Ficheros](https://github.com/Lundrvs/C/blob/master/fich/README.md)
-
-* [Estructuras dinámicas]() _En desarrollo..._
-
-* [Algoritmos de ordenación de búsqueda]() _En desarrollo..._
-
-* [Control de errores y validación de datos]() _En desarrollo..._
