@@ -2,7 +2,7 @@
 
 ## Índice
 
-_**Éstos códigos han sido probados con GCC.**_
+_**Éstos códigos han sido probados con el compilador GCC.**_
 
 * [Punteros y referencias](https://github.com/lundrvs/C/blob/master/punt/README.md)
 
