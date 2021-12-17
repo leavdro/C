@@ -1,4 +1,4 @@
-# Mis ejercicios de C
+# Problemas resueltos en C
 
 ## Índice
 
